@@ -1,7 +1,7 @@
 ---
 title: Arduino & Raspberry Pi
 description: Thermostat for school course
-categories: [Projects, Thermostat]
+categories: [Projects, Programming]
 date: 2024-09-09 20:57 +0300
 ---
 {% include embed/youtube.html id='ClcseTeFdvY' %}
