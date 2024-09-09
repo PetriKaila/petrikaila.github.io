@@ -18,6 +18,6 @@ Testing ESP32 camera for different purposes.
 *Live-video*
 
 {% include embed/youtube.html id='hUygTHWeFSE' %}
-*FTP-Server HomeAssistant with MotionEye*
+*FTP-Server with HomeAssistant and MotionEye*
 
 
