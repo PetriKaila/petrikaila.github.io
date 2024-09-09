@@ -1,5 +1,5 @@
 ---
-title: Arduino & Raspberry Pi
+title: ESP32-CAM, Arduino & Raspberry Pi
 description: ESP32-cam testing
 categories: [Projects, Programming]
 tags: [esp]
