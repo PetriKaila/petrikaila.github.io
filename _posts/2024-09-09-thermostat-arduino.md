@@ -2,6 +2,7 @@
 title: Arduino, Thermostat
 description: Thermostat for school course
 categories: [Projects, Programming]
+tags: [arduino]
 date: 2024-09-09 20:57 +0300
 ---
 {% include embed/youtube.html id='ClcseTeFdvY' %}
