@@ -1,6 +1,6 @@
 ---
 title: Arduino & Raspberry Pi
-description: ESP32-cam testing
+description: Thermostat for school course
 categories: [Projects, Thermostat]
 date: 2024-09-09 20:57 +0300
 ---
